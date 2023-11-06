@@ -20,12 +20,21 @@ collections:
     fields:
       - { name: title, label: Title }
       - { name: description, label: Description }
-      - { name: publishedAt, label: Date, widget: date }
+      - { name: date, label: Date, widget: date }
+      - { label: "Featured Image", name: "image", widget: "image" }
       - {
           label: "Publish",
           name: "isPublish",
           widget: "boolean",
           default: true,
+        }
+      - { label: "Author", name: "authors", wiget: "string" }
+      - {
+          label: "Categories",
+          name: "categories",
+          wiget: "list",
+          default: "Others",
+          allow_add: true,
         }
       - { label: "Draft", name: "isDraft", widget: "boolean", default: false }
       - { name: body, label: Body, widget: markdown }
