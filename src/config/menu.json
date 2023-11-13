@@ -1,42 +1,70 @@
 {
   "main": [
     {
-      "name": "Home",
-      "url": "/"
+      "name": "By Country",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {"name": "USA",
+        "url": ""},
+        {"name": "EUROPE", "url": ""},
+        {"name": "AUSTRALIA", "url": ""},
+        {"name": "CANADA", "url": ""},
+        {"name": "MIDDLE EAST", "url": ""},
+        {"name": "SOUTH AFRICA", "url": ""},
+        {"name": "ASIA", "url": ""}
+      ]
     },
     {
-      "name": "About",
-      "url": "/about"
+      "name": "Level of Study",
+      "url": "/",
+      "hasChildren": true,
+      "children": [
+        {"name": "Undergraduate Scholarships", "url": ""},
+        {"name": "Master's Scholarships", "url": ""},
+        {"name": "Ph.D. Scholarships", "url": ""},
+        {"name": "Postdoctoral Fellowships", "url": ""}, 
+        {"name": "High School Scholarships", "url": ""}
+      ]
     },
     {
-      "name": "Contact",
-      "url": "/contact"
+      "name": "Field of Study",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {"name": "STEM Scholarships", "url": ""},
+        {"name": "Humanities and Social Sciences Scholarships", "url": ""},
+        {"name": "Business and Economics Scholarships", "url": ""},
+        {"name": "Arts and Design Scholarships", "url": ""},
+        {"name": "Medical and Health Sciences Scholarships", "url": ""},
+        {"name": "Law Scholarships", "url": ""}
+
+
+      ]
     },
     {
-      "name": "Pages",
+      "name": "Opportunities",
+      "url": "url",
+      "hasChildren": true,
+
+      "children": [
+        {"name": "Fellowships", "url": ""},
+        {"name": "Internships", "url": ""},
+        {"name": "GRANTS", "url": ""},
+        {"name": "Volunteer Opportunities", "url": ""},
+        {"name": "Professional Development", "url": ""}
+      ]
+    },
+    {
+      "name": "Others",
       "url": "",
       "hasChildren": true,
       "children": [
         {
-          "name": "Authors",
-          "url": "/authors"
-        },
-        {
-          "name": "Categories",
-          "url": "/categories"
-        },
-        {
-          "name": "Tags",
-          "url": "/tags"
-        },
-        {
-          "name": "Elements",
-          "url": "/elements"
-        },
-        {
-          "name": "Privacy Policy",
-          "url": "/privacy-policy"
+          "name": "Resources and Guides",
+          "url": ""
         }
+        
       ]
     }
   ],
@@ -48,14 +76,8 @@
     {
       "name": "Contact",
       "url": "/contact"
-    },
-    {
-      "name": "Elements",
-      "url": "/elements"
-    },
-    {
-      "name": "Privacy Policy",
-      "url": "/privacy-policy"
     }
+    
+    
   ]
 }

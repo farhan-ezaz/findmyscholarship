@@ -84,6 +84,45 @@ npm run build
 We use GitHub Issues as the official bug tracker for this Template. Please Search [existing issues](https://github.com/themefisher/bookworm-light-astro/issues). It’s possible someone has already reported the same problem.
 If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/themefisher/bookworm-light-astro/issues).
 
+## Categories
+
+●	By Country
+➢	USA
+➢	EUROPE
+➢	AUSTRALIA
+➢	CANADA
+➢	MIDDLE EAST
+➢	SOUTH ARICA
+➢	ASIA
+
+●	Level of Study
+➢	 Undergraduate Scholarships
+➢	Master's Scholarships
+➢	Ph.D. Scholarships
+➢	Postdoctoral Fellowships
+➢	High School Scholarships
+
+●	Field of Study
+➢	STEM Scholarships (Science, Technology, Engineering, Mathematics)
+➢	Humanities and Social Sciences Scholarships
+➢	Business and Economics Scholarships
+➢	Arts and Design Scholarships
+➢	Medical and Health Sciences Scholarships
+➢	Law Scholarships
+
+●	Opportunities
+➢	Fellowships
+➢	Internships
+➢	GRANTS
+➢	Volunteer Opportunities
+➢	Professional Development
+
+●	Resources and Guides
+
+
+
+
+
 
 <!-- licence -->
 ## 📄License
