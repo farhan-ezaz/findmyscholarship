@@ -29,12 +29,7 @@ collections:
           widget: "boolean",
           default: true,
         }
-      - { label: "Author", name: "authors", wiget: "string" }
-      - label: "Categories"
-        name: "categories"
-        wiget: "list"
-        default: "Others"
-        allow_add: true
-
+      - { label: "Author", name: "authors", wiget: "string", default: "Farhan Ezaz" }
+      - {label: Tags, name: tags, widget: select, multiple: true, options: [usa,europe,australia,canada,middle-east,south-arica,asia,undergraduate-scholarships,masters-scholarships,phd-scholarships,postdoctoral-fellowships,high-school-scholarships,stem,humanities-and-social-sciences,business-and-economics,arts-and-design,medical-and-health-sciences,law-scholarships,fellowships,internships,grants,volunteer-opportunities,professional-development,resources-and-guides]}
       - { label: "Draft", name: "isDraft", widget: "boolean", default: false }
       - { name: body, label: Body, widget: markdown }

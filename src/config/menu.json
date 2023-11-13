@@ -6,25 +6,25 @@
       "hasChildren": true,
       "children": [
         {"name": "USA",
-        "url": ""},
-        {"name": "EUROPE", "url": ""},
-        {"name": "AUSTRALIA", "url": ""},
-        {"name": "CANADA", "url": ""},
-        {"name": "MIDDLE EAST", "url": ""},
-        {"name": "SOUTH AFRICA", "url": ""},
-        {"name": "ASIA", "url": ""}
+        "url": "tags/usa"},
+        {"name": "EUROPE", "url": "tags/europe"},
+        {"name": "AUSTRALIA", "url": "tags/australia"},
+        {"name": "CANADA", "url": "tags/canada"},
+        {"name": "MIDDLE EAST", "url": "tags/middle-east"},
+        {"name": "SOUTH AFRICA", "url": "tags/south-arica"},
+        {"name": "ASIA", "url": "tags/asia"}
       ]
     },
     {
       "name": "Level of Study",
-      "url": "/",
+      "url": "",
       "hasChildren": true,
       "children": [
-        {"name": "Undergraduate Scholarships", "url": ""},
-        {"name": "Master's Scholarships", "url": ""},
-        {"name": "Ph.D. Scholarships", "url": ""},
-        {"name": "Postdoctoral Fellowships", "url": ""}, 
-        {"name": "High School Scholarships", "url": ""}
+        {"name": "Undergraduate Scholarships", "url": "tags/undergraduate-scholarships"},
+        {"name": "Master's Scholarships", "url": "tags/masters-scholarships"},
+        {"name": "Ph.D. Scholarships", "url": "tags/phd-scholarships"},
+        {"name": "Postdoctoral Fellowships", "url": "tags/postdoctoral-fellowships"}, 
+        {"name": "High School Scholarships", "url": "tags/high-school-scholarships"}
       ]
     },
     {
@@ -32,27 +32,25 @@
       "url": "",
       "hasChildren": true,
       "children": [
-        {"name": "STEM Scholarships", "url": ""},
-        {"name": "Humanities and Social Sciences Scholarships", "url": ""},
-        {"name": "Business and Economics Scholarships", "url": ""},
-        {"name": "Arts and Design Scholarships", "url": ""},
-        {"name": "Medical and Health Sciences Scholarships", "url": ""},
-        {"name": "Law Scholarships", "url": ""}
-
-
+        {"name": "STEM Scholarships", "url": "tags/stem"},
+        {"name": "Humanities and Social Sciences Scholarships", "url": "tags/humanities-and-social-sciences"},
+        {"name": "Business and Economics Scholarships", "url": "tags/business-and-economics"},
+        {"name": "Arts and Design Scholarships", "url": "tags/arts-and-design"},
+        {"name": "Medical and Health Sciences Scholarships", "url": "tags/medical-and-health-sciences"},
+        {"name": "Law Scholarships", "url": "tags/law-scholarships"}
       ]
     },
     {
       "name": "Opportunities",
-      "url": "url",
+      "url": "",
       "hasChildren": true,
 
       "children": [
-        {"name": "Fellowships", "url": ""},
-        {"name": "Internships", "url": ""},
-        {"name": "GRANTS", "url": ""},
-        {"name": "Volunteer Opportunities", "url": ""},
-        {"name": "Professional Development", "url": ""}
+        {"name": "Fellowships", "url": "tags/fellowships"},
+        {"name": "Internships", "url": "tags/internships"},
+        {"name": "GRANTS", "url": "tags/grants"},
+        {"name": "Volunteer Opportunities", "url": "tags/volunteer-opportunities"},
+        {"name": "Professional Development", "url": "tags/professional-development"}
       ]
     },
     {
@@ -62,7 +60,7 @@
       "children": [
         {
           "name": "Resources and Guides",
-          "url": ""
+          "url": "tags/resources-and-guides"
         }
         
       ]
