@@ -14,10 +14,11 @@ site_url: "https://findmyscholarship.netlify.app/" # your site name
 collections:
   - name: post
     label: Posts
-    folder: src/content/posts
+    folder: src/content/posts/{{year}}/{{month}}
     create: true
     format: frontmatter
-    preview_path: post/{{slug}}
+    preview_path: post/{{year}}/{{month}}/{{slug}}
+    sortable_fields: ['date', 'title']
     fields:
       - { name: title, label: Title }
       - { name: description, label: Description }
