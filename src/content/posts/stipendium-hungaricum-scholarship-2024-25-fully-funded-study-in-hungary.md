@@ -12,15 +12,21 @@ tags:
   - phd-scholarships
 ---
 > ### Are you ready for an educational adventure in the heart of Europe? The Stipendium Hungaricum Scholarship Program 2024/25 offers a plethora of opportunities for international students, and we're here to guide you through all the details.
+>
+>
 
 ### *Overview:*
 
 The Stipendium Hungaricum Scholarship Program, hosted by Hungary, is a government initiative aimed at fostering international cooperation in education. It seeks to attract bright minds from around the world to study in Hungary, known for its rich history and vibrant academic community.
 
+
+
 ### **Host Country: Hungary**
 
 * Immerse yourself in Hungary's rich culture and history.
 * Study in a country known for its vibrant academic community.
+
+
 
 ### **Degree Level:**
 
@@ -81,12 +87,14 @@ To qualify, applicants should meet the following general criteria:
   * Academic transcripts and certificates
   * Identification documents
   * Medical certificates
-  * Portfolios (for Art and Music applicants
+  * Portfolios (for Art and Music applicants)
 
 ### **Application Deadline:**
 
 Mark your calendar for the deadline, which falls on January 15, 2024. Missing it could mean missing out on this fantastic opportunity.
 
-### [O﻿fficial Link]([https://stipendiumhungaricum.hu](https://stipendiumhungaricum.hu)
+### [O﻿FFICIAL LINK](https://stipendiumhungaricum.hu/)
 
-**Conclusion:** The Stipendium Hungaricum Scholarship Program isn't just about acquiring knowledge; it's about embarking on a life-changing adventure. Join the ranks of international scholars who have experienced Hungary's unique blend of culture, history, and education. Your future starts here, so don't hesitate to apply and unlock a world of opportunities!
+
+
+Conclusion: The Stipendium Hungaricum Scholarship Program isn't just about acquiring knowledge; it's about embarking on a life-changing adventure. Join the ranks of international scholars who have experienced Hungary's unique blend of culture, history, and education. Your future starts here, so don't hesitate to apply and unlock a world of opportunities!
