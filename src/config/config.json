@@ -4,7 +4,7 @@
     "base_url": "https://findmyscholarship.netlify.app",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/images/favicon.png",
+    "favicon": "/images/favicon.svg",
     "logo": "/images/findmyscholarship-logo.png",
     "logo_width": "240",
     "logo_height": "45",
