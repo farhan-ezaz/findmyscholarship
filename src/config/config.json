@@ -5,9 +5,9 @@
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
-    "logo_width": "200",
-    "logo_height": "34",
+    "logo": "/images/findmyscholarship-logo.png",
+    "logo_width": "240",
+    "logo_height": "45",
     "logo_text": "Find My Scholarship"
   },
 
