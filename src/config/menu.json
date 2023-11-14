@@ -68,12 +68,16 @@
   ],
   "footer": [
     {
-      "name": "About",
-      "url": "/about"
+      "name": "Authors",
+      "url": "/authors"
     },
     {
       "name": "Contact",
       "url": "/contact"
+    },
+    {
+      "name": "Login",
+      "url": "/admin"
     }
     
     

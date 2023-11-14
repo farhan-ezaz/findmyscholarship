@@ -5,8 +5,8 @@ import SimilarPosts from "@components/SimilarPosts.astro";
 import { getSinglePage } from "@lib/contentParser.astro";
 import dateFormat from "@lib/utils/dateFormat";
 import similerItems from "@lib/utils/similarItems";
-import { humanize,markdownify,slugify } from "@lib/utils/textConverter";
-import { BiCalendarEdit,BiCategoryAlt } from "react-icons/bi/index.js";
+import { humanize, markdownify, slugify } from "@lib/utils/textConverter";
+import { BiCalendarEdit, BiCategoryAlt } from "react-icons/bi/index.js";
 
 const allAuthors = await getSinglePage("authors");
 const posts = await getSinglePage("posts");
@@ -20,7 +20,7 @@ const { title, description, authors, categories, image, date, tags } =
 <section class="section">
   <div class="container">
     <article class="row justify-center">
-      <div class="md:col-10 text-center">
+      <div class="text-center md:col-10">
         <h1 set:html={markdownify(title)} class="h2" />
         <ul class="mt-4 flex flex-wrap items-center justify-center text-text">
           <li class="mx-3">
@@ -34,7 +34,7 @@ const { title, description, authors, categories, image, date, tags } =
                 .map((author, i) => (
                   <a
                     href={`/authors/${slugify(author.slug)}`}
-                    class="flex items-center hover:text-primary font-medium"
+                    class="flex items-center font-medium hover:text-primary"
                   >
                     {author.data.image && (
                       <Image
@@ -50,42 +50,25 @@ const { title, description, authors, categories, image, date, tags } =
                 ))
             }
           </li>
-          <li class="mx-3 flex items-center flex-wrap font-medium">
+          <li class="mx-3 flex flex-wrap items-center font-medium">
             <BiCalendarEdit className="mr-1 h-5 w-5 text-gray-600" />
             <>{dateFormat(date)}</>
-          </li>
-          <li class="mx-3 flex items-center flex-wrap">
-            <BiCategoryAlt className="mr-1 h-[18px] w-[18px] text-gray-600" />
-            <>
-            <ul>
-              {
-                categories.map((category: string, i: number) => (
-                  <li class="inline-block">
-                    <a
-                      href={`/categories/${slugify(category)}`}
-                      class="mr-2 hover:text-primary font-medium"
-                    >
-                      {humanize(category)}{i !== post.data.categories.length - 1 && ","}
-                    </a>
-                  </li>
-                ))
-              }
-            </ul>
-            </>
           </li>
         </ul>
       </div>
 
-      <div class="col-12 mt-8 mb-2">
-        {image && (
-          <Image
-            src={image}
-            height={500}
-            width={1000}
-            alt={title}
-            class="rounded-lg"
-          />
-        )}
+      <div class="col-12 mb-2 mt-8">
+        {
+          image && (
+            <Image
+              src={image}
+              height={500}
+              width={1000}
+              alt={title}
+              class="rounded-lg"
+            />
+          )
+        }
       </div>
 
       <div class="md:col-10">
@@ -93,13 +76,13 @@ const { title, description, authors, categories, image, date, tags } =
           <Content />
         </div>
         <div class="flex flex-wrap items-center justify-between">
-          <ul class="mr-4 mb-4 space-x-3">
+          <ul class="mb-4 mr-4 space-x-3">
             {
               tags.map((tag: string) => (
                 <li class="inline-block">
                   <a
                     href={`/tags/${slugify(tag)}`}
-                    class="block rounded-lg bg-theme-light px-4 py-2 font-semibold text-dark text-sm hover:text-primary transition duration-300"
+                    class="block rounded-lg bg-theme-light px-4 py-2 text-sm font-semibold text-dark transition duration-300 hover:text-primary"
                   >
                     #{humanize(tag)}
                   </a>
@@ -124,7 +107,7 @@ const { title, description, authors, categories, image, date, tags } =
   similarPosts.length > 0 && (
     <section class="section pt-0">
       <div class="container">
-        <h2 class="mb-8 text-center h3">Similar Posts</h2>
+        <h2 class="h3 mb-8 text-center">Similar Posts</h2>
         <SimilarPosts posts={similarPosts.slice(0, 3)} />
       </div>
     </section>
