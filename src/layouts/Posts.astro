@@ -3,21 +3,28 @@ import { Image } from "@astrojs/image/components";
 import config from "@config/config.json";
 import { getSinglePage } from "@lib/contentParser.astro";
 import dateFormat from "@lib/utils/dateFormat";
-import { humanize,slugify } from "@lib/utils/textConverter";
-import { BiCalendarEdit,BiCategoryAlt } from "react-icons/bi/index.js";
+import { humanize, slugify } from "@lib/utils/textConverter";
+import { BiCalendarEdit, BiCategoryAlt } from "react-icons/bi/index.js";
 const authors = await getSinglePage("authors");
 const { summary_length } = config.settings;
 const { className, posts, fluid } = Astro.props;
 ---
 
-<div class={`row gy-5 gx-4 ${className} ${posts.length == 1 ? "justify-center" : ""} `}>
+<div
+  class={`row gy-5 gx-4 ${className} ${
+    posts.length == 1 ? "justify-center" : ""
+  } `}
+>
   {
     posts.map((post: any, i: number) => (
       <div class={i === 0 && fluid != false ? "col-12" : "col-12 sm:col-6"}>
         {post.data.image && (
-          <a href={`/${post.slug}`} class="rounded-lg block hover:text-primary overflow-hidden group">
+          <a
+            href={`/${post.slug}`}
+            class="group block overflow-hidden rounded-lg hover:text-primary"
+          >
             <Image
-              class="group-hover:scale-[1.03] transition duration-300 w-full"
+              class="w-full transition duration-300 group-hover:scale-[1.03]"
               src={post.data.image}
               alt={post.data.title}
               width={i === 0 ? 925 : 445}
@@ -25,7 +32,7 @@ const { className, posts, fluid } = Astro.props;
             />
           </a>
         )}
-        <ul class="mt-6 mb-4 flex flex-wrap items-center text-text">
+        <ul class="mb-4 mt-6 flex flex-wrap items-center text-text">
           <li class="mr-5">
             {authors
               .filter((author) =>
@@ -36,7 +43,7 @@ const { className, posts, fluid } = Astro.props;
               .map((author) => (
                 <a
                   href={`/authors/${slugify(author.data.title)}`}
-                  class="flex items-center hover:text-primary font-medium"
+                  class="flex items-center font-medium hover:text-primary"
                 >
                   {author.data.image && (
                     <Image
@@ -51,21 +58,22 @@ const { className, posts, fluid } = Astro.props;
                 </a>
               ))}
           </li>
-          <li class="mr-5 flex items-center flex-wrap font-medium">
+          <li class="mr-5 flex flex-wrap items-center font-medium">
             <BiCalendarEdit className="mr-1 h-5 w-5 text-gray-600" />
             <>{dateFormat(post.data.date)}</>
           </li>
-          <li class="mr-5 flex items-center flex-wrap">
+          <li class="mr-5 flex flex-wrap items-center">
             <BiCategoryAlt className="mr-1 h-[18px] w-[18px] text-gray-600" />
             <>
               <ul>
-                {post.data.categories.map((category: string, i: number) => (
+                {post.data.tags.map((tag: string, i: number) => (
                   <li class="inline-block">
                     <a
-                      href={`/categories/${slugify(category)}`}
-                      class="mr-2 hover:text-primary font-medium"
+                      href={`/tags/${slugify(tag)}`}
+                      class="mr-2 font-medium hover:text-primary"
                     >
-                      {humanize(category)}{i !== post.data.categories.length - 1 && ","}
+                      {humanize(tag)}
+                      {i !== post.data.tags.length - 1 && ","}
                     </a>
                   </li>
                 ))}
@@ -74,12 +82,21 @@ const { className, posts, fluid } = Astro.props;
           </li>
         </ul>
         <h3 class="mb-4">
-          <a href={`/${post.slug}`} class="block hover:text-primary transition duration-300">
+          <a
+            href={`/${post.slug}`}
+            class="block transition duration-300 hover:text-primary"
+          >
             {post.data.title}
           </a>
         </h3>
         <p class="text-text">
-          {post.body?.slice(0, Number(i === 0 && fluid != false ? summary_length * 2 : summary_length))}...
+          {post.body?.slice(
+            0,
+            Number(
+              i === 0 && fluid != false ? summary_length * 2 : summary_length
+            )
+          )}
+          ...
         </p>
       </div>
     ))

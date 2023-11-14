@@ -8,6 +8,7 @@ authors:
   - Farhan Ezaz
 tags:
   - canada
+  - humanities-and-social-sciences
 isDraft: false
 ---
 s﻿fdfae

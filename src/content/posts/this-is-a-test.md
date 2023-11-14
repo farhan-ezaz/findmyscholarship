@@ -4,7 +4,8 @@ description: This is a test
 date: 2023-11-13T20:16:05.287Z
 image: /images/favicon.png
 isPublish: true
-authors: Ano bot
+authors: 
+  - Ano bot
 tags:
   - europe
   - phd-scholarships
