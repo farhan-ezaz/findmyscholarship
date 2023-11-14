@@ -24,12 +24,6 @@ collections:
       - { name: description, label: Description }
       - { name: date, label: Date, widget: date }
       - { label: "Featured Image", name: "image", widget: "image" }
-      - {
-          label: "Publish",
-          name: "isPublish",
-          widget: "boolean",
-          default: true,
-        }
       - {label: "Authors", name: "authors", widget: select, multiple: true, allow_add: false, options: ["Farhan Ezaz"]}
       # - { label: "Author", name: "authors", wiget: "string", default: "Farhan Ezaz" }
       # - { name: tags2, label: Tags, widget: list, allow_add: true, multiple: true, field: { name: tag1, label: Tag, widget: string } }
