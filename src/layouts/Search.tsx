@@ -3,7 +3,7 @@ import dateFormat from "@lib/utils/dateFormat";
 import { humanize, slugify } from "@lib/utils/textConverter";
 import Fuse from "fuse.js";
 import { useEffect, useRef, useState } from "react";
-import { BiCalendarEdit, BiCategoryAlt } from "react-icons/bi/index.js";
+import { BiCalendarEdit} from "react-icons/bi/index.js";
 const { summary_length } = config.settings;
 
 export type SearchItem = {
@@ -109,23 +109,7 @@ export default function SearchBar({ searchList }: Props) {
                 <BiCalendarEdit className="mr-1 h-5 w-5 text-gray-600" />
                 <>{dateFormat(item.data.date)}</>
               </li>
-              <li className="mr-5 flex items-center flex-wrap">
-                <BiCategoryAlt className="mr-1 h-[18px] w-[18px] text-gray-600" />
-                <>
-                  <ul>
-                    {item.data.categories.map((category: string, i: number) => (
-                      <li className="inline-block">
-                        <a
-                          href={`/categories/${slugify(category)}`}
-                          className="mr-2 hover:text-primary font-medium"
-                        >
-                          {humanize(category)}{i !== item.data.categories.length - 1 && ","}
-                        </a>
-                      </li>
-                    ))}
-                  </ul>
-                </>
-              </li>
+              
             </ul>
 
             <h3 className="mb-2">
