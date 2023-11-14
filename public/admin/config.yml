@@ -31,3 +31,16 @@ collections:
       - {label: Tags, name: tags, widget: select, multiple: true, options: ["usa","europe","australia","canada","middle-east","south-arica","asia","undergraduate-scholarships","masters-scholarships","phd-scholarships","postdoctoral-fellowships","high-school-scholarships","stem","humanities-and-social-sciences","business-and-economics","arts-and-design","medical-and-health-sciences","law-scholarships","fellowships","internships","grants","volunteer-opportunities","professional-development","resources-and-guides"]}
       # - { label: "Draft", name: "draft", widget: "boolean", default: true }
       - { name: body, label: Body, widget: markdown }
+  - name: author
+    label: Authors
+    folder: src/content/authors/
+    create: false
+    format: frontmatter
+    fields: 
+      - {name: title, label: "Full Name"}
+      - {name: image, label: "Profile Photo", widget: image}
+      - {name: description, label: "Description"}
+      - {name: facebook, label: Facebook}
+      - {name: twitter, label: Twitter}
+      - {name: instagram, label: Instagram}
+      - {name: body, label: Bio, widget: markdown}
