@@ -35,5 +35,5 @@ collections:
       # - { name: tags2, label: Tags, widget: list, allow_add: true, multiple: true, field: { name: tag1, label: Tag, widget: string } }
       # - { name: tags, label: Tags, widget: list, allow_add: true, field: { name: tag, label: Tag, widget: select, options: ['Tag1', 'Tag2', 'Tag3'] } }
       - {label: Tags, name: tags, widget: select, multiple: true, options: ["usa","europe","australia","canada","middle-east","south-arica","asia","undergraduate-scholarships","masters-scholarships","phd-scholarships","postdoctoral-fellowships","high-school-scholarships","stem","humanities-and-social-sciences","business-and-economics","arts-and-design","medical-and-health-sciences","law-scholarships","fellowships","internships","grants","volunteer-opportunities","professional-development","resources-and-guides"]}
-      - { label: "Draft", name: "isDraft", widget: "boolean", default: false }
+      # - { label: "Draft", name: "draft", widget: "boolean", default: true }
       - { name: body, label: Body, widget: markdown }
