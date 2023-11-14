@@ -72,9 +72,10 @@
       "url": "/authors"
     },
     {
-      "name": "Contact",
-      "url": "/contact"
+      "name": "Developer",
+      "url": "https://github.com/anik-amd"
     },
+
     {
       "name": "Login",
       "url": "/admin"
