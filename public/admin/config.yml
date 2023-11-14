@@ -40,7 +40,15 @@ collections:
       - {name: title, label: "Full Name"}
       - {name: image, label: "Profile Photo", widget: image}
       - {name: description, label: "Description"}
-      - {name: facebook, label: Facebook}
-      - {name: twitter, label: Twitter}
-      - {name: instagram, label: Instagram}
+      - name: "social" 
+        label: "Social"
+        widget: "object"
+        summery: "Your social links."
+        fields: 
+          - {name: facebook, label: "Facebook Link"}
+          - {name: twitter, label: "Twitter Link"}
+          - {name: instagram, label: "Instagram Link"}
       - {name: body, label: Bio, widget: markdown}
+
+         
+     
