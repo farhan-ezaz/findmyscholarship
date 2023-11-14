@@ -1,10 +1,10 @@
 backend:
-  name: github
-  repo: farhan-ezaz/findmyscholarship #replace with your githu repo
-  branch: main
-  squash_merges: true
-  open_authoring: true
-  # name: test-repo
+  # name: github
+  # repo: farhan-ezaz/findmyscholarship #replace with your githu repo
+  # branch: main
+  # squash_merges: true
+  # open_authoring: true
+  name: test-repo
 
 publish_mode: editorial_workflow
 media_folder: public/images
@@ -30,7 +30,8 @@ collections:
           widget: "boolean",
           default: true,
         }
-      - { label: "Author", name: "authors", wiget: "string", default: "Farhan Ezaz" }
+      - {label: "Authors", name: "authors", widget: select, multiple: true, allow_add: false, options: ["Farhan Ezaz"]}
+      # - { label: "Author", name: "authors", wiget: "string", default: "Farhan Ezaz" }
       # - { name: tags2, label: Tags, widget: list, allow_add: true, multiple: true, field: { name: tag1, label: Tag, widget: string } }
       # - { name: tags, label: Tags, widget: list, allow_add: true, field: { name: tag, label: Tag, widget: select, options: ['Tag1', 'Tag2', 'Tag3'] } }
       - {label: Tags, name: tags, widget: select, multiple: true, options: ["usa","europe","australia","canada","middle-east","south-arica","asia","undergraduate-scholarships","masters-scholarships","phd-scholarships","postdoctoral-fellowships","high-school-scholarships","stem","humanities-and-social-sciences","business-and-economics","arts-and-design","medical-and-health-sciences","law-scholarships","fellowships","internships","grants","volunteer-opportunities","professional-development","resources-and-guides"]}
