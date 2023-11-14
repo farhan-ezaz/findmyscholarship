@@ -28,19 +28,6 @@
       ]
     },
     {
-      "name": "Field of Study",
-      "url": "",
-      "hasChildren": true,
-      "children": [
-        {"name": "STEM Scholarships", "url": "/tags/stem"},
-        {"name": "Humanities and Social Sciences Scholarships", "url": "/tags/humanities-and-social-sciences"},
-        {"name": "Business and Economics Scholarships", "url": "/tags/business-and-economics"},
-        {"name": "Arts and Design Scholarships", "url": "/tags/arts-and-design"},
-        {"name": "Medical and Health Sciences Scholarships", "url": "/tags/medical-and-health-sciences"},
-        {"name": "Law Scholarships", "url": "/tags/law-scholarships"}
-      ]
-    },
-    {
       "name": "Opportunities",
       "url": "",
       "hasChildren": true,
