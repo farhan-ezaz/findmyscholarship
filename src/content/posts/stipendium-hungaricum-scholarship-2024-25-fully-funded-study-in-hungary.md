@@ -81,12 +81,18 @@ To qualify, applicants should meet the following general criteria:
   * Academic transcripts and certificates
   * Identification documents
   * Medical certificates
-  * Portfolios (for Art and Music applicants
+  * Portfolios (for Art and Music applicants)
+
+
 
 ### **Application Deadline:**
 
 Mark your calendar for the deadline, which falls on January 15, 2024. Missing it could mean missing out on this fantastic opportunity.
 
-### [O﻿fficial Link]([https://stipendiumhungaricum.hu](https://stipendiumhungaricum.hu)
 
-**Conclusion:** The Stipendium Hungaricum Scholarship Program isn't just about acquiring knowledge; it's about embarking on a life-changing adventure. Join the ranks of international scholars who have experienced Hungary's unique blend of culture, history, and education. Your future starts here, so don't hesitate to apply and unlock a world of opportunities!
+
+### [O﻿FFICIAL LINK](<https://stipendiumhungaricum.hu/>)
+
+
+
+Conclusion: The Stipendium Hungaricum Scholarship Program isn't just about acquiring knowledge; it's about embarking on a life-changing adventure. Join the ranks of international scholars who have experienced Hungary's unique blend of culture, history, and education. Your future starts here, so don't hesitate to apply and unlock a world of opportunities!
