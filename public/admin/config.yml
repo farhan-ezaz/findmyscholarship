@@ -49,6 +49,3 @@ collections:
           - {name: twitter, label: "Twitter Link"}
           - {name: instagram, label: "Instagram Link"}
       - {name: body, label: Bio, widget: markdown}
-
-         
-     

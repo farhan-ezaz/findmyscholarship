@@ -2,7 +2,7 @@
 title: "I’m John Doe, A content writer based in LDN, Currently at Bookworm"
 meta_title: "About"
 image: "/images/author.png"
-draft: false
+draft: true
 
 what_i_do:
   title: "What I Do"
