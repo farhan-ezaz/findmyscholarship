@@ -1,8 +1,8 @@
 ---
 title: "Maastricht University Scholarships 2024: A Gateway to Academic
   Excellence in The Netherlands"
-description: '**"Unlock Your Future with Maastricht University Scholarships
-  2024: A Gateway to Academic Excellence in The Netherlands"**'
+description: "Unlock Your Future with Maastricht University Scholarships 2024: A
+  Gateway to Academic Excellence in The Netherlands"
 date: 2023-11-15T10:45:44.747Z
 image: /images/maastricht-university-scholarships-2024.jpg
 authors:
