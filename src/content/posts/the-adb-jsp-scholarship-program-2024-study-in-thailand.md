@@ -10,7 +10,6 @@ tags:
   - asia
   - masters-scholarships
 ---
-
 The Asian Development Bank - Japan Scholarship Program (ADB-JSP) at the Asian Institute of Technology (AIT) in Thailand for 2024 presents an extraordinary opportunity for aspiring postgraduates. This program is uniquely designed for individuals with a bachelor's degree and professional experience, aiming to further their academic journey in a world-class environment. The scholarship caters specifically to those who have shown promise in their respective fields and are driven to contribute significantly to the development of their home countries. 
 
 AIT, Thailand's premier institute, offers a nurturing and inclusive academic setting. Here, scholars from diverse backgrounds converge, fostering a rich cultural and intellectual exchange. The ADB-JSP scholarship ensures that financial constraints do not hinder talented individuals from accessing quality education. It comprehensively covers the costs associated with higher learning - from tuition fees and accommodation to medical insurance and travel expenses. In addition, the scholarship addresses ancillary academic needs, such as books and additional courses in languages or computing, reflecting its commitment to providing a holistic educational experience.
@@ -21,31 +20,21 @@ The selection process for the ADB-JSP Scholarship is competitive, seeking candid
 
 In essence, the ADB-JSP Scholarship Program at AIT is not just a financial aid package; it is a launchpad for future leaders and innovators. It is a testament to the power of education in bridging gaps between nations and fostering a more interconnected and empathetic world. This scholarship is a beacon of hope and opportunity, inviting young professionals to step forward and contribute to a brighter, more inclusive future.
 
-
-
 ### **Host Country**
 
 * Thailand
-
-
 
 ### **Host University**
 
 * Asian Institute of Technology (AIT)
 
-
-
 ### **Funded By**
 
 * Asian Development Bank - Japan Scholarship Program (ADB-JSP)
 
-
-
 ### **Duration of Scholarship**
 
 * One to two years
-
-
 
 ### **Benefits of the ADB-JSP Scholarship Program 2024**
 
@@ -57,9 +46,7 @@ In essence, the ADB-JSP Scholarship Program at AIT is not just a financial aid p
 * Visa fees, taxes, and certain travel expenses are covered.
 * Opportunities to take additional language or computer courses with expenses covered.
 * Subsistence allowance for living expenses.
-* Support for extra luggage (up to 20 kg) for the return journey【59†source】.
-
-
+* Support for extra luggage (up to 20 kg) for the return journey.
 
 ### **Eligibility Criteria**
 
@@ -69,9 +56,7 @@ In essence, the ADB-JSP Scholarship Program at AIT is not just a financial aid p
 * Good health and fitness.
 * Fluency in the English language.
 * Age limit of 35 years at the time of application.
-* Commitment to returning to the home country post-studies【60†source】.
-
-
+* Commitment to returning to the home country post-studies.
 
 ### **How to Apply**
 
@@ -79,9 +64,7 @@ In essence, the ADB-JSP Scholarship Program at AIT is not just a financial aid p
 * Request and fill out the application form from AIT.
 * Include personal and qualification details in the application.
 * Clearly indicate your application for the ADB-JSP Scholarship when applying to AIT.
-* Attach necessary documents and submit the application to AIT【61†source】.
-
-
+* Attach necessary documents and submit the application to AIT.
 
 ### **Documents Required**
 
@@ -89,33 +72,23 @@ In essence, the ADB-JSP Scholarship Program at AIT is not just a financial aid p
 * ADB-JSP information sheet.
 * English language proficiency certificate (IELTS, TOEFL, or EET).
 * Work experience certificate.
-* Financial statement【62†source】.
-
-
+* Financial statement.
 
 ### **Selection Criteria**
 
 * AIT evaluates applications based on specific criteria.
 * Applications are then forwarded to ADB for further review and recommendation of awardees.
-* Shortlisted candidates are notified by AIT, and successful candidates receive congratulatory emails from ADB【63†source】.
-
-
+* Shortlisted candidates are notified by AIT, and successful candidates receive congratulatory emails from ADB.
 
 ### **Application Deadline**
 
-* March 31, 2024【64†source】.
-
-
+* March 31, 2024.
 
 ### **Motivation**
 
 This scholarship is ideal for those who aim to bridge academic pursuits with real-world applications, focusing on community enhancement and global development. It nurtures individuals who are eager to bring about positive changes in their home countries and the world.
 
-
-
 ### [O﻿FFICAL LINK](https://ait.ac.th/financial/joint-japan-world-bank-graduate-scholarship-program/)
-
-
 
 ### **Conclusion**
 
