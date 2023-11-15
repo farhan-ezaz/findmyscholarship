@@ -1,7 +1,7 @@
 ---
 title: Cambridge University MBA Scholarship 2024 | Study in the Cambridge UK
-description: '"Cambridge University MBA Scholarship 2024: A Beacon of Excellence
-  in Business Education"'
+description: "Cambridge University MBA Scholarship 2024: A Beacon of Excellence
+  in Business Education"
 date: 2023-11-15T11:14:16.860Z
 image: /images/cambridge-university-mba-scholarship-2024.jpg
 authors:
