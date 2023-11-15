@@ -62,7 +62,7 @@ The scholarship covers residence permits, health and liability insurance, and vi
 * Letter of motivation.
 * Two letters of reference.
 
-##### [O﻿fficial Link](<##### <https://www.ru.nl/en/education/scholarships/radboud-scholarship-programme>>)
+##### [O﻿fficial Link](https://www.ru.nl/en/education/scholarships/radboud-scholarship-programme)
 
 In conclusion, the Radboud Scholarship for International Students 2024 stands as an exceptional opportunity for individuals with a burning desire to advance their education within the esteemed halls of an internationally acclaimed institution. This scholarship is not just a financial support system; it is a catalyst for personal and academic growth, an avenue to explore new horizons, and a platform to make a profound impact on society.
 
