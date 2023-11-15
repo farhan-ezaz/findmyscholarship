@@ -80,7 +80,7 @@ Applicants must prepare the following documents:
 
 Pursuing a master’s degree under the TU Delft Excellence Scholarship is more than just an academic endeavor; it's a transformative experience. It's an opportunity to be part of a diverse community, contributing to and benefiting from a rich exchange of ideas and perspectives. This scholarship not only supports your educational journey but also shapes you into a global citizen, equipped to address the pressing challenges of our time. The motivation to apply for this scholarship should stem from a desire to excel academically, grow personally, and contribute meaningfully to society.
 
-[O﻿fficial Link](https://www.tudelft.nl/en/education/practical-matters/scholarships)
+### [O﻿fficial Link](https://www.tudelft.nl/en/education/practical-matters/scholarships)
 
 ### Conclusion
 
