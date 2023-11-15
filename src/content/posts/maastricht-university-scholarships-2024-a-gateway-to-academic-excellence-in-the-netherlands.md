@@ -15,7 +15,7 @@ Are you prepared to embark on an academic journey like no other? The Maastricht 
 
 At Maastricht University, the world becomes your classroom, offering a rich tapestry of cultures, ideas, and experiences. This scholarship isn't just about financial aid; it's your passport to intellectual growth, personal development, and the chance to make a global impact. 
 
-Discover a vibrant academic community that encourages critical thinking and fosters global citizenship. Here, you won't just earn a degree; you'll gain the skills, knowledge, and perspective needed to thrive in an interconnected world. So, if you're ready to embark on an academic adventure of a lifetime, the Maastricht University Scholarships 2024 are your gateway to excellence. Don't miss this opportunity to shape your destiny and broaden your horizons. Your educational odyssey awaits!
+Discover a vibrant academic community that encourages critical thinking and fosters global citizenship. Here, you won't just earn a degree; you'll gain the skills, knowledge, and perspective needed to thrive in an interconnected world. So, if you're ready to embark on an academic adventure of a lifetime, the Maastricht University Scholarships 2024 are your gateway to excellence. Don't miss this opportunity to shape your destiny and broaden your horizons. Your educational odyssey awaits! 
 
 # Maastricht University Scholarships 2024:
 
