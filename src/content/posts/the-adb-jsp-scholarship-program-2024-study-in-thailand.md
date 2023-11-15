@@ -20,6 +20,8 @@ The selection process for the ADB-JSP Scholarship is competitive, seeking candid
 
 In essence, the ADB-JSP Scholarship Program at AIT is not just a financial aid package; it is a launchpad for future leaders and innovators. It is a testament to the power of education in bridging gaps between nations and fostering a more interconnected and empathetic world. This scholarship is a beacon of hope and opportunity, inviting young professionals to step forward and contribute to a brighter, more inclusive future.
 
+# The ADB-JSP Scholarship Program 2024
+
 ### **Host Country**
 
 * Thailand
