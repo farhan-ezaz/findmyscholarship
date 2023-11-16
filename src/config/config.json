@@ -12,8 +12,8 @@
   },
 
   "settings": {
-    "pagination": 7,
-    "summary_length": 100
+    "pagination": 10,
+    "summary_length": 150
   },
 
   "metadata": {
